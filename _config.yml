@@ -85,7 +85,7 @@ author:
   bio              : "Physics Undergraduate @ IIT Bombay, Machine Learning researcher"
   location         : "Mumbai, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dfzhNNIAAAAJ&hl=en"
   email            : "200260058@iitb.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "www.linkedin.com/in/vikhyat-agrawal-907b2420b/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

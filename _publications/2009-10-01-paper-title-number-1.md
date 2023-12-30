@@ -2,7 +2,7 @@
 title: "Deep multi-task learning for early warnings of dust events implemented for the Middle East"
 collection: publications
 permalink: /publication/paper-1
-excerpt: ''
+excerpt: ' '
 date: 2023-03-23
 venue: 'NPJ Climate and Atmospheric Science'
 paperurl: 'https://www.nature.com/articles/s41612-023-00348-9'

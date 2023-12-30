@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is the link to my Curriculum Vitae [<i class="fas fa-file-pdf"></i>](https://vikhyatt.github.io/files/new_cv.pdf) (Last Updated: 13/12/23)
+[Here](https://vikhyatt.github.io/files/new_cv.pdf) is the link to my Curriculum Vitae (Last Updated: 13/12/23)

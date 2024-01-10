@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Here](https://vikhyatt.github.io/files/new_cv.pdf) is the link to my Curriculum Vitae (Last Updated: 13/12/23)
+[Here](https://vikhyatt.github.io/files/updated_CV.pdf) is the link to my Curriculum Vitae (Last Updated: 13/12/23)

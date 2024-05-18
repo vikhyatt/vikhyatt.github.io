@@ -5,7 +5,7 @@ permalink: /publication/paper-2
 excerpt: ' '
 date: 2024-05-15
 venue: 'ICMHI'
-paperurl: 'https://arxiv.org/abs/2405.00725'
+paperurl: 'https://arxiv.org/pdf/2405.00725'
 ---
 This research paper explores ways to apply Federated Learning (FL) and Differential Privacy (DP) techniques to population-scale Electrocardiogram (ECG) data. The study learns a multi-label ECG classification model using FL and DP based on 1,565,849 ECG tracings from 7 hospitals in Alberta, Canada. The FL approach allowed collaborative model training without sharing raw data between hospitals while building robust ECG classification models for diagnosing various cardiac conditions. These accurate ECG classification models can facilitate the diagnoses while preserving patient confidentiality using FL and DP techniques. Our results show that the performance achieved using our implementation of the FL approach is comparable to that of the pooled approach, where the model is trained over the aggregating data from all hospitals. Furthermore, our findings suggest that hospitals with limited ECGs for training can benefit from adopting the FL model compared to single-site training. In addition, this study showcases the trade-off between model performance and data privacy by employing DP during model training. Our code is available at https://github.com/vikhyatt/Hospital-FL-DP.
-[Download paper here](https://arxiv.org/pdf/2405.00725)
+[Download paper here](https://arxiv.org/abs/2405.00725)

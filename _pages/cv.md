@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Here](https://vikhyatt.github.io/files/Resume_EPFL_Oracle.pdf) is the link to my Curriculum Vitae (Last Updated: 16/9/24)
+[Here](https://vikhyatt.github.io/files/Resume_EPFL_Oracle.pdf) is the link to my Curriculum Vitae (Last Updated: 4/10/25)
